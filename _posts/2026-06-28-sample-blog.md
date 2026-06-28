@@ -6,6 +6,4 @@ description: "Sample Blog Post"
 tags: [Sample]
 ---
 
-## What is ChassisIQ?
-
-Sample blog post
+## Sample blog post 
