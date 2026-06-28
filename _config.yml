@@ -1,9 +1,8 @@
 title: Girish Shirasat
-description: Personal site — blog, CV, and links
-author: Girish Shirasat
+description: Personal site
 email: ""
 
-theme: minima
+theme: Architect
 
 minima:
   social_links:
