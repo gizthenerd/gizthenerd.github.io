@@ -1,1 +1,22 @@
+# Add your externally published blog posts here.
+# Each entry will appear in the Blog listing page alongside your local posts.
+#
+# Fields:
+#   title       - Post title (required)
+#   url         - Full URL to the post (required)
+#   date        - Publication date in YYYY-MM-DD (required, used for sorting)
+#   source      - Platform name, e.g. Medium, Dev.to, LinkedIn (optional)
+#   description - Short summary shown under the title (optional)
+
+- title: "Your First External Post Title"
+  url: "https://medium.com/@yourusername/your-first-post"
+  date: "2025-01-15"
+  source: "Medium"
+  description: "A short summary of what this post covers."
+
+- title: "Another Post on Dev.to"
+  url: "https://dev.to/yourusername/another-post"
+  date: "2024-11-20"
+  source: "Dev.to"
+  description: "What this article is about in one or two sentences."
 
