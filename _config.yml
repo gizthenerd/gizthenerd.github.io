@@ -1,0 +1,22 @@
+title: Girish Shirasat
+description: Personal site — blog, CV, and links
+author: Girish Shirasat
+email: ""
+
+theme: minima
+
+minima:
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/girish-shirasat" }
+
+header_pages:
+  - index.md
+  - blogs.md
+
+cv_url: "https://your-cv-link-here"  # Replace with your actual CV URL
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:year/:month/:day/:title/
