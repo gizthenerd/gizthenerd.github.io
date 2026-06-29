@@ -51,41 +51,81 @@ title: Home
     <li class="pub-item">
       <div class="pub-title">
         <span class="pub-type article">Article</span>
-        The cloud-native approach to the software defined car
+        <a href="https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/agentic-ai-whitepaper.pdf" target="_blank" rel="noopener">From software-defined to AI-defined: The next revolution in automotive technology</a>
       </div>
-      <div class="pub-meta">Qualcomm · Technical Publication</div>
+      <div class="pub-meta">Qualcomm · Jan 2026</div>
     </li>
 
     <li class="pub-item">
       <div class="pub-title">
         <span class="pub-type article">Article</span>
-        Accelerating Software-Defined Vehicles through Cloud-To-Vehicle Edge Environmental Parity
+        <a href="https://www.qualcomm.com/developer/blog/2025/01/snapdragon-digital-chassis-workbench" target="_blank" rel="noopener">Snapdragon Digital Chassis Workbench – end-to-end, cloud-based workflow for developers of software-defined vehicles</a>
       </div>
-      <div class="pub-meta">Qualcomm · Technical Publication</div>
+      <div class="pub-meta">Qualcomm · Jun 2025</div>
     </li>
 
     <li class="pub-item">
       <div class="pub-title">
         <span class="pub-type article">Article</span>
-        AWS and Qualcomm Software-Defined Vehicle demonstrator for Cloud-Native Snapdragon Digital Chassis development
+        <a href="https://aws.amazon.com/blogs/industries/aws-and-qualcomm-software-defined-vehicle-demonstrator-for-cloud-native-snapdragon-digital-chassis-development/" target="_blank" rel="noopener">AWS and Qualcomm Software-Defined Vehicle demonstrator for Cloud-Native Snapdragon Digital Chassis development</a>
       </div>
-      <div class="pub-meta">Qualcomm · Technical Publication</div>
+      <div class="pub-meta">AWS · Jan 2024</div>
     </li>
 
     <li class="pub-item">
       <div class="pub-title">
         <span class="pub-type article">Article</span>
-        SOAFEE Accelerates Autonomous Race Car Development
+        <a href="https://www.qualcomm.com/news/onq/2023/01/snapdragon-ride-flex-soc-central-compute-solution-bringing-software-defined-vehicle-vision-to-reality" target="_blank" rel="noopener">Snapdragon Ride Flex SoC: The central compute solution that's bringing the SDV vision to reality</a>
       </div>
-      <div class="pub-meta">SOAFEE SIG · Technical Publication</div>
+      <div class="pub-meta">Qualcomm · Apr 2023</div>
     </li>
 
     <li class="pub-item">
       <div class="pub-title">
         <span class="pub-type article">Article</span>
-        Snapdragon Digital Chassis Workbench – end-to-end, cloud-based workflow for developers of software-defined vehicles
+        <a href="https://soafee.io/blog/2022/soafee_sig_journey_to_date_and_whats_next/" target="_blank" rel="noopener">Soafee Journey To Date And What's Next</a>
       </div>
-      <div class="pub-meta">Qualcomm · Technical Publication</div>
+      <div class="pub-meta">SOAFEE SIG · Sep 2022</div>
+    </li>
+
+    <li class="pub-item">
+      <div class="pub-title">
+        <span class="pub-type article">Article</span>
+        <a href="https://soafee.io/blog/2022/high_perf_realtime/" target="_blank" rel="noopener">High-Performance Real-Time Systems Design from Cloud to Embedded Edge</a>
+      </div>
+      <div class="pub-meta">SOAFEE SIG · May 2022</div>
+    </li>
+
+    <li class="pub-item">
+      <div class="pub-title">
+        <span class="pub-type article">Article</span>
+        <a href="https://soafee.io/blog/2022/autonomous_race_car/" target="_blank" rel="noopener">SOAFEE Accelerates Autonomous Race Car Development</a>
+      </div>
+      <div class="pub-meta">SOAFEE SIG · May 2022</div>
+    </li>
+
+    <li class="pub-item">
+      <div class="pub-title">
+        <span class="pub-type article">Article</span>
+        <a href="https://armkeil.blob.core.windows.net/developer/Files/pdf/white-paper/arm-aws-edge-environmental-parity-wp.pdf" target="_blank" rel="noopener">Accelerating Software-Defined Vehicles through Cloud-To-Vehicle Edge Environmental Parity</a>
+      </div>
+      <div class="pub-meta">Arm · Jan 2022</div>
+    </li>
+
+    <li class="pub-item">
+      <div class="pub-title">
+        <span class="pub-type article">Article</span>
+        <a href="https://community.arm.com/arm-community-blogs/b/embedded-blog/posts/cloud-native-approach-to-the-software-defined-car" target="_blank" rel="noopener">The cloud-native approach to the software defined car</a>
+      </div>
+      <div class="pub-meta">Arm · Sep 2021</div>
+    </li>
+
+    <li class="pub-item">
+      <div class="pub-title">
+        <span class="pub-type article">Article</span>
+        <a href="http://rtcmagazine.com/articles/view/112303" target="_blank" rel="noopener">Enabling Heterogeneous Solutions Using Standard Communication Middleware</a>
+      </div>
+      <div class="pub-meta">RTC Magazine · Jul 2015</div>
     </li>
 
     <li class="pub-item">
