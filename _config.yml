@@ -1,20 +1,15 @@
 title: Girish Shirasat
-description: Personal Nerdy Muses
-email: ""
+description: Senior Director & Global Head – Automotive/Robotics System Software Architecture
+email: girish.shirasat@gmail.com
 
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
-header_pages:
-  - index.md
-  - blogs.md
-
-cv_url: "https://your-cv-link-here"  # Replace with your actual CV URL
+theme: minima
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
 permalink: /:year/:month/:day/:title/
+
+linkedin_url: "https://www.linkedin.com/in/girish-shirasat"
+github_url: "https://github.com/gizthenerd"
+cv_url: "https://your-cv-link-here"
