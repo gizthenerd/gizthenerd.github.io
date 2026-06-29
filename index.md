@@ -6,11 +6,6 @@ title: Home
 <!-- ABOUT -->
 <section class="section" id="about">
   <div class="hero-name">Girish Shirasat</div>
-  <div class="hero-title">
-    Senior Director &amp; Global Head – Automotive/Robotics System Software Architecture
-    <span class="sep-dot">·</span>
-    <a href="https://www.qualcomm.com" target="_blank" rel="noopener">Qualcomm</a>
-  </div>
 
   <div class="about-body">
     <p>
